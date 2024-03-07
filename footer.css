@@ -1,0 +1,46 @@
+#footer {
+    padding-top: 25px;
+    background-color: #3b5a59;
+    padding-left: 20px;
+    padding-right: 20px;
+    display: flex;
+  }
+  
+  #footer-logo {
+    width: 17%;
+    padding-right: 15px;
+    padding-left: 15px;
+  }
+  
+  #footer-logo img {
+    width: 180px;
+  }
+  
+  .menu-footer {
+    width: 17%;
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+  }
+  
+  .menu-footer a {
+    font-family: "Inter";
+    font-size: 12px;
+    text-decoration: none;
+    color: rgb(239, 239, 239);
+    line-height: 24px;
+    margin-top: 10px;
+  }
+  
+  #contact {
+    width: 17%;
+  }
+  
+  #last-section {
+    width: 32%;
+    font-family: "Inter";
+    font-size: 15px;
+    text-decoration: none;
+    color: rgb(3, 2, 2);
+  }
+  

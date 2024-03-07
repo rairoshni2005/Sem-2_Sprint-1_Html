@@ -1,0 +1,46 @@
+#our-products {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 50px;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-bottom: 50px;
+    background-color: #e62525;
+  }
+
+
+.products {
+    display: flex;
+    max-width: 1280px;
+    flex-direction: row;
+    background-color: #dfdede;
+    margin-top: 25px;
+    padding-top: 50px;
+    margin-left: 15px;
+    margin-right: 15px;
+  }
+  
+  .product-item {
+    max-width: 25%;
+    padding-right: 15px;
+    padding-left: 15px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  .product-item img {
+    width: 100%;
+  }
+  
+  .product-item p {
+    font-family: "Overlock";
+    font-size: 22px;
+    font-weight: 700;
+    text-align: center;
+    text-transform: uppercase;
+    color: #a9802a;
+    padding: 15px;
+  }
+
+ 
